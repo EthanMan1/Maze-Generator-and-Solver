@@ -1,6 +1,7 @@
-ggg
+py pip
+import randaom
 
+size = width, height =input("Enter maze width: "),input("Enter maze height")
+screen = pygame.display.setmode(size)
 
-
-
-jk
+pygame.display.update()
