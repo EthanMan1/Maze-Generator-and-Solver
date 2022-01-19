@@ -1,7 +1,20 @@
-py pip
-import randaom
+import pygame
+import random
+import time
+
+pygame.init()
 
 size = width, height =input("Enter maze width: "),input("Enter maze height")
 screen = pygame.display.setmode(size)
+pygame.display.set_caption("Maze Solver")
 
+clock = pygame.time.Clock()
+
+
+x
+y
+w = '1'
+
+visited 
+unvisited
 pygame.display.update()
